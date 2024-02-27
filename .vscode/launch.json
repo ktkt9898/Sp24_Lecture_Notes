@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList_Ex",
+            "request": "launch",
+            "mainClass": "ArrayList_Ex",
+            "projectName": "Sp24_Lecture_Notes-2_bd0a8564"
+        },
+        {
+            "type": "java",
+            "name": "DecimalFormat_Ex",
+            "request": "launch",
+            "mainClass": "DecimalFormat_Ex",
+            "projectName": "Sp24_Lecture_Notes-2_bd0a8564"
+        },
+        {
+            "type": "java",
+            "name": "For_Loops",
+            "request": "launch",
+            "mainClass": "For_Loops",
+            "projectName": "Sp24_Lecture_Notes-2_bd0a8564"
+        },
+        {
+            "type": "java",
+            "name": "Graphics",
+            "request": "launch",
+            "mainClass": "Graphics",
+            "projectName": "Sp24_Lecture_Notes-2_bd0a8564"
+        },
+        {
+            "type": "java",
+            "name": "Loops_Ex",
+            "request": "launch",
+            "mainClass": "Loops_Ex",
+            "projectName": "Sp24_Lecture_Notes-2_bd0a8564"
+        },
+        {
+            "type": "java",
+            "name": "ObjectDemo",
+            "request": "launch",
+            "mainClass": "ObjectDemo",
+            "projectName": "Sp24_Lecture_Notes-2_bd0a8564"
+        },
+        {
+            "type": "java",
+            "name": "Random_Class_Ex",
+            "request": "launch",
+            "mainClass": "Random_Class_Ex",
+            "projectName": "Sp24_Lecture_Notes-2_bd0a8564"
+        }
+    ]
+}

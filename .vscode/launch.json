@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TeaTest",
+            "request": "launch",
+            "mainClass": "TeaTest",
+            "projectName": "Sp24_Lecture_Notes-6_bd0a8568"
+        },
+        {
+            "type": "java",
+            "name": "File_Writing_Ex",
+            "request": "launch",
+            "mainClass": "File_Writing_Ex",
+            "projectName": "Sp24_Lecture_Notes-6_bd0a8568"
+        },
+        {
+            "type": "java",
             "name": "Tokenizing_Strings_Ex",
             "request": "launch",
             "mainClass": "Tokenizing_Strings_Ex",

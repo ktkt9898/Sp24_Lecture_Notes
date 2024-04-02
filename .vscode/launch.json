@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arrays_Ex",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Ex",
+            "projectName": "Sp24_Lecture_Notes-10_e446272d"
+        },
+        {
+            "type": "java",
+            "name": "Arrays_Notes",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Notes",
+            "projectName": "Sp24_Lecture_Notes-10_e446272d"
+        },
+        {
+            "type": "java",
             "name": "TeaTest",
             "request": "launch",
             "mainClass": "TeaTest",

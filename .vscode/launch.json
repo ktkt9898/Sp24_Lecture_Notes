@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Two_Dimesional_Arrays_Ex",
+            "request": "launch",
+            "mainClass": "Arrays.Two_Dimesional_Arrays_Ex",
+            "projectName": "Sp24_Lecture_Notes-12_e446272f"
+        },
+        {
+            "type": "java",
             "name": "Arrays_Ex",
             "request": "launch",
             "mainClass": "Arrays.Arrays_Ex",

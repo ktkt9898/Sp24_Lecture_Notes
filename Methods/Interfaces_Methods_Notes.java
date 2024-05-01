@@ -1,3 +1,4 @@
+package Methods;
 /*
  * Interface defines the methods that can be used within a class
  * An interface just declares methods and what to expect from objects

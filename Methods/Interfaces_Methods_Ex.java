@@ -1,3 +1,4 @@
+package Methods;
 public int cube(int cubeThirdPower) {
     return cubeThirdPower = cubeThirdPower * cubeThirdPower * cubeThirdPower;
 }

@@ -1,3 +1,4 @@
+package Animation;
 /**
  * Never have hard coded pixel values, incase of resizing.
  * Use the width and height of the screen.

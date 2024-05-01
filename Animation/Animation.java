@@ -1,3 +1,4 @@
+package Animation;
 /**
  * Define a variable, xOffset (lateral movement) and use expressions
  * to define x positions of shapes relative to the offset

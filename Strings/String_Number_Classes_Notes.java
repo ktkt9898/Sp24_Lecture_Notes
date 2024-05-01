@@ -1,3 +1,4 @@
+package Strings;
 /**
  * Each individual letter of a string is stored in memory and can be
  * accessed with methods.
